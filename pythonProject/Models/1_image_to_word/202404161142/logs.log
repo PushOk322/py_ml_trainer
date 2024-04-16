@@ -1,0 +1,2 @@
+2024-04-16 11:42:46,414 - tensorflow - WARNING - From D:\Navchannya\Diplom\model_trainer\py_trainer\pythonProject\.venv\Lib\site-packages\tf2onnx\tf_loader.py:72: The name tf.train.import_meta_graph is deprecated. Please use tf.compat.v1.train.import_meta_graph instead.
+
